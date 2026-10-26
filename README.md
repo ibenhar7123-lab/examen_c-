@@ -1,6 +1,7 @@
 Examen de programmation C++ : 
+
   Exercice 1 /
-    1. Résultat affiché
+     1. Résultat affiché
       15 20
     a est une référence sur x, donc x passe de 10 à 15. b est une copie de y, donc y reste à 20.
     2. Passage par valeur vs par référence
