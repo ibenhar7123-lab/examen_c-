@@ -24,7 +24,6 @@ Examen de programmation C++ :
     Cela évite aussi une copie coûteuse pour les gros objets.
 
   Exercice 2 / 
-  
     <img width="960" height="540" alt="Ex2" src="https://github.com/user-attachments/assets/b604e927-6afc-4915-95bd-4899c12e3152" />
 
   Exercic 3 /
@@ -39,4 +38,4 @@ Examen de programmation C++ :
       la liaison dynamique appelle d’abord le destructeur de la classe dérivée,
       puis celui de la classe mère, et l’objet est détruit correctement.
   
-    <img width="960" height="540" alt="Ex3" src="https://github.com/user-attachments/assets/07dea3f7-c4f0-4c97-9bb6-c47ac7a590b8" />
+   <img width="960" height="540" alt="Ex3" src="https://github.com/user-attachments/assets/07dea3f7-c4f0-4c97-9bb6-c47ac7a590b8" />
